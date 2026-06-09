@@ -10,7 +10,7 @@
 |--:|--|
 | **Shipped surface** | [**miro-clone**](https://github.com/svdesilva/miro-clone) — realtime collaborative canvas (Next.js · Clerk · Liveblocks · Fabric). README, tradeoffs, ops notes. ![CI](https://github.com/svdesilva/miro-clone/actions/workflows/ci.yml/badge.svg?branch=main) |
 | **Decision quality** | [**decisions**](https://github.com/svdesilva/decisions) — public ADRs + templates (managed realtime, AI ship gates, API deprecation comms). |
-| **Launch & incident craft** | [**launch-coordination**](https://github.com/svdesilva/launch-coordination) — experiment briefs, customer impact one-pagers, postmortems, RACI, exec comms. |
+| **Launch & incident craft** | [**launch-coordination**](https://github.com/svdesilva/launch-coordination) — experiment briefs, customer impact one-pagers, postmortems, RACI, exec comms. ![verify](https://github.com/svdesilva/launch-coordination/actions/workflows/verify.yml/badge.svg?branch=main) |
 
 **Pin these six for the curated arc:**  
 `miro-clone` · `decisions` · `launch-coordination` · `eval-rubric` · `agent-trace-review` · `model-promotion-gate`  
