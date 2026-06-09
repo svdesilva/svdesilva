@@ -20,7 +20,10 @@
 
 | Repository | Summary |
 |------------|---------|
+| [**pm-github-playbook**](https://github.com/svdesilva/pm-github-playbook) | PM GitHub system: six hire signals, Cursor/Claude workflow notes, **50** scoped project ideas, six recruiter red flags, forkable starter kit. |
 | [**miro-clone**](https://github.com/svdesilva/miro-clone) | Real-time collaborative whiteboard — auth, presence, shared canvas, and operational README (problem, architecture, tradeoffs). |
+
+Use the playbook as the **documentation standard** for how pinned repositories are written and reviewed.
 
 #### Collaboration
 
@@ -29,4 +32,4 @@
 
 ---
 
-<sub>Profile README version: 1.0 — maintain in lockstep with pinned repositories.</sub>
+<sub>Profile README version: 1.1 — maintain in lockstep with pinned repositories.</sub>
