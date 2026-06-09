@@ -24,7 +24,7 @@ If **Overview** looks quiet, open [**Repositories**](https://github.com/svdesilv
 
 | Repository | What it is |
 |------------|------------|
-| [**eval-rubric**](https://github.com/svdesilva/eval-rubric) | **Versioned YAML rubrics** for offline LLM/agent eval — dimensions, weights (sum to 1), aggregation. |
+| [**eval-rubric**](https://github.com/svdesilva/eval-rubric) | **Versioned YAML rubrics** for offline LLM/agent eval — dimensions, weights (sum to 1), aggregation. ![CI](https://github.com/svdesilva/eval-rubric/actions/workflows/ci.yml/badge.svg?branch=main) |
 | [**agent-trace-review**](https://github.com/svdesilva/agent-trace-review) | JSON Schema + CLI for **agent run traces** (tooling, latency, handoffs). ![CI](https://github.com/svdesilva/agent-trace-review/actions/workflows/ci.yml/badge.svg?branch=main) |
 | [**agent-tool-policy**](https://github.com/svdesilva/agent-tool-policy) | **Declarative tool governance** (YAML) + validation. ![CI](https://github.com/svdesilva/agent-tool-policy/actions/workflows/ci.yml/badge.svg?branch=main) |
 | [**model-promotion-gate**](https://github.com/svdesilva/model-promotion-gate) | **Machine-readable promotion checklists** for staged model rollouts. ![CI](https://github.com/svdesilva/model-promotion-gate/actions/workflows/ci.yml/badge.svg?branch=main) |
