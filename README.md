@@ -26,6 +26,16 @@ I ship in public when I can. The pinned repositories below are the best represen
 
 ---
 
+### Music × math (side quests)
+
+| Repository | What it is |
+|------------|------------|
+| [**tuning-math**](https://github.com/svdesilva/tuning-math) | CLI markdown table: **equal temperament vs just vs a Pythagorean-ish fifth**, in **cents** — the arithmetic behind “why the piano is a compromise.” |
+| [**polyrhythm-lcm**](https://github.com/svdesilva/polyrhythm-lcm) | ASCII **polyrhythm grids** from pulse math — **lcm** alignment, simultaneous attacks, practice-friendly output. |
+| [**mod12-melody**](https://github.com/svdesilva/mod12-melody) | **Pitch-class set** toys: interval vectors and a simple **mod‑12 inversion** orbit — tonal harmony and atonal row work share the same clock face. |
+
+---
+
 ### Contact
 
 Use the links on my GitHub profile (site / LinkedIn). If you are a recruiter: tell me the team and the hardest product tradeoff you are hiring for—I read those messages first.
