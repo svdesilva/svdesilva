@@ -1,28 +1,36 @@
 ### Hi — I’m Sandesh.
 
-I lead **AI product and platform** work where the hard part is not the model slide—it is the **system** around it: scope, evaluation, rollout, and the cross-functional agreements that keep production safe.
-
-I ship in public when I can. The pinned repositories below are the best representation of how I think and build.
+**AI product · platform · agentic systems** — I care about the whole loop: scope, evaluation, rollout, and the cross-team contracts that keep production boring (in a good way).
 
 ---
 
-### What I’m building in the open
+### Start here (~60 seconds)
+
+| | |
+|--:|--|
+| **Shipped surface** | [**miro-clone**](https://github.com/svdesilva/miro-clone) — realtime collaborative canvas (Next.js · Clerk · Liveblocks · Fabric). README, tradeoffs, ops notes. ![CI](https://github.com/svdesilva/miro-clone/actions/workflows/ci.yml/badge.svg?branch=main) |
+| **Decision quality** | [**decisions**](https://github.com/svdesilva/decisions) — public ADRs + templates (managed realtime, AI ship gates, API deprecation comms). |
+| **Agent accountability** | [**agent-trace-review**](https://github.com/svdesilva/agent-trace-review) — JSON Schema + CLI for **agent run traces** (tooling, latency, handoffs). ![CI](https://github.com/svdesilva/agent-trace-review/actions/workflows/ci.yml/badge.svg?branch=main) |
+
+If your first click is **Overview** and it feels quiet: open [**Repositories**](https://github.com/svdesilva?tab=repositories). For the curated first impression, use **Customize your pins** and pin these six:  
+`miro-clone` · `decisions` · `agent-trace-review` · `agent-tool-policy` · `model-promotion-gate` · `tuning-math`.
+
+---
+
+### AI reliability kits (small tools, real standards)
 
 | Repository | What it is |
 |------------|------------|
-| [**miro-clone**](https://github.com/svdesilva/miro-clone) | Realtime collaborative canvas (Next.js + Clerk + Liveblocks + Fabric). README + tradeoffs + operational notes. |
-| [**decisions**](https://github.com/svdesilva/decisions) | Public ADRs and templates for non-sensitive bets (managed realtime, AI ship gates, API deprecation comms). |
-| [**agent-trace-review**](https://github.com/svdesilva/agent-trace-review) | JSON Schema + CLI for **agent run traces**—so PM/eng can review tool calls, latency, and handoffs without drowning in raw logs. |
-| [**agent-tool-policy**](https://github.com/svdesilva/agent-tool-policy) | **Declarative tool governance** (YAML) with validation—rate limits, approvals, deny rules, escalation hooks. |
-| [**model-promotion-gate**](https://github.com/svdesilva/model-promotion-gate) | **Machine-readable promotion checklists** for staged model rollouts (gates, stages, required roles). |
+| [**agent-tool-policy**](https://github.com/svdesilva/agent-tool-policy) | Declarative **tool governance** (YAML) + validation — approvals, rate limits, deny rules. ![CI](https://github.com/svdesilva/agent-tool-policy/actions/workflows/ci.yml/badge.svg?branch=main) |
+| [**model-promotion-gate**](https://github.com/svdesilva/model-promotion-gate) | **Machine-readable promotion checklists** for staged model rollouts (gates, stages, roles). ![CI](https://github.com/svdesilva/model-promotion-gate/actions/workflows/ci.yml/badge.svg?branch=main) |
 
 ---
 
 ### How I work with engineering
 
-- I write decisions where it matters: **context → options → tradeoffs → consequences**.
-- I keep releases boring on purpose: checklists, staged rollout thinking, and explicit non-goals.
-- I prefer **narrow slices** with measurable outcomes over big-bang demos that fall apart under questions.
+- Decisions live in writing: **context → options → tradeoffs → consequences**.
+- Releases favor **staged truth** over hero demos: checklists, rollback posture, explicit non-goals.
+- I prefer **narrow slices** with measurable outcomes.
 
 ---
 
@@ -30,12 +38,12 @@ I ship in public when I can. The pinned repositories below are the best represen
 
 | Repository | What it is |
 |------------|------------|
-| [**tuning-math**](https://github.com/svdesilva/tuning-math) | CLI markdown table: **equal temperament vs just vs a Pythagorean-ish fifth**, in **cents** — the arithmetic behind “why the piano is a compromise.” |
-| [**polyrhythm-lcm**](https://github.com/svdesilva/polyrhythm-lcm) | ASCII **polyrhythm grids** from pulse math — **lcm** alignment, simultaneous attacks, practice-friendly output. |
-| [**mod12-melody**](https://github.com/svdesilva/mod12-melody) | **Pitch-class set** toys: interval vectors and a simple **mod‑12 inversion** orbit — tonal harmony and atonal row work share the same clock face. |
+| [**tuning-math**](https://github.com/svdesilva/tuning-math) | **Cents and ratios** — equal temperament vs just vs a Pythagorean-ish fifth column (classical tuning numerics). ![CI](https://github.com/svdesilva/tuning-math/actions/workflows/ci.yml/badge.svg?branch=main) |
+| [**polyrhythm-lcm**](https://github.com/svdesilva/polyrhythm-lcm) | ASCII **polyrhythm grids** from **lcm** pulse math. ![CI](https://github.com/svdesilva/polyrhythm-lcm/actions/workflows/ci.yml/badge.svg?branch=main) |
+| [**mod12-melody**](https://github.com/svdesilva/mod12-melody) | **Pitch-class sets** — interval vectors + mod‑12 inversion samples. ![CI](https://github.com/svdesilva/mod12-melody/actions/workflows/ci.yml/badge.svg?branch=main) |
 
 ---
 
 ### Contact
 
-Use the links on my GitHub profile (site / LinkedIn). If you are a recruiter: tell me the team and the hardest product tradeoff you are hiring for—I read those messages first.
+Use the links on my GitHub profile (site / LinkedIn). Recruiters: lead with the team + the **hardest product tradeoff** you are hiring for — I read those first.
