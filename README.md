@@ -10,8 +10,11 @@ I ship in public when I can. The pinned repositories below are the best represen
 
 | Repository | What it is |
 |------------|------------|
-| [**miro-clone**](https://github.com/svdesilva/miro-clone) | A realtime collaborative canvas (Next.js + Clerk + Liveblocks + Fabric). Strong README, tradeoffs, and operational notes—because collaboration infra is a product decision, not “just wiring.” |
-| [**decisions**](https://github.com/svdesilva/decisions) | ADRs and decision templates I reuse on bets where I can share non-sensitive material (managed realtime, AI ship gates, API deprecation comms). |
+| [**miro-clone**](https://github.com/svdesilva/miro-clone) | Realtime collaborative canvas (Next.js + Clerk + Liveblocks + Fabric). README + tradeoffs + operational notes. |
+| [**decisions**](https://github.com/svdesilva/decisions) | Public ADRs and templates for non-sensitive bets (managed realtime, AI ship gates, API deprecation comms). |
+| [**agent-trace-review**](https://github.com/svdesilva/agent-trace-review) | JSON Schema + CLI for **agent run traces**—so PM/eng can review tool calls, latency, and handoffs without drowning in raw logs. |
+| [**agent-tool-policy**](https://github.com/svdesilva/agent-tool-policy) | **Declarative tool governance** (YAML) with validation—rate limits, approvals, deny rules, escalation hooks. |
+| [**model-promotion-gate**](https://github.com/svdesilva/model-promotion-gate) | **Machine-readable promotion checklists** for staged model rollouts (gates, stages, required roles). |
 
 ---
 
