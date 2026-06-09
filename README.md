@@ -1,6 +1,6 @@
-### Hi — I’m Sandesh.
+### Sandesh de Silva
 
-**AI product · platform · agentic systems** — I care about the whole loop: scope, evaluation, rollout, and the cross-team contracts that keep production boring (in a good way).
+**AI product · platform · agentic systems** — scope, evaluation, rollout, and the cross-team contracts that keep production boring (in a good way).
 
 ---
 
@@ -12,11 +12,10 @@
 | **Decision quality** | [**decisions**](https://github.com/svdesilva/decisions) — public ADRs + templates (managed realtime, AI ship gates, API deprecation comms). |
 | **Launch & incident craft** | [**launch-coordination**](https://github.com/svdesilva/launch-coordination) — experiment briefs, customer impact one-pagers, postmortems, RACI, exec comms. ![verify](https://github.com/svdesilva/launch-coordination/actions/workflows/verify.yml/badge.svg?branch=main) |
 
-**Pin these six for the curated arc:**  
-`miro-clone` · `decisions` · `launch-coordination` · `eval-rubric` · `agent-trace-review` · `model-promotion-gate`  
-*(GitHub → profile → **Customize your pins** — API cannot set pins for you.)*
+**Suggested pins (six):**  
+`miro-clone` · `decisions` · `launch-coordination` · `eval-rubric` · `agent-trace-review` · `model-promotion-gate`
 
-If **Overview** looks quiet, open [**Repositories**](https://github.com/svdesilva?tab=repositories).
+If the **Overview** tab looks sparse, open [**Repositories**](https://github.com/svdesilva?tab=repositories) and use **Customize your pins** on the profile.
 
 ---
 
@@ -31,11 +30,11 @@ If **Overview** looks quiet, open [**Repositories**](https://github.com/svdesilv
 
 ---
 
-### How I work with engineering
+### Engineering collaboration
 
-- Decisions live in writing: **context → options → tradeoffs → consequences**.
+- Decisions in writing: **context → options → tradeoffs → consequences**.
 - Releases favor **staged truth** over hero demos: checklists, rollback posture, explicit non-goals.
-- I prefer **narrow slices** with measurable outcomes.
+- **Narrow slices** with measurable outcomes over big-bang demos.
 
 ---
 
@@ -51,4 +50,4 @@ If **Overview** looks quiet, open [**Repositories**](https://github.com/svdesilv
 
 ### Contact
 
-Use the links on my GitHub profile (site / LinkedIn). Recruiters: lead with the team + the **hardest product tradeoff** you are hiring for — I read those first.
+Public links live on the GitHub profile fields (site / LinkedIn). For recruiting: lead with the team and the **hardest product tradeoff** on the mandate — that context gets prioritized.
